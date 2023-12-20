@@ -1,0 +1,24 @@
+[
+  {
+    "model": "levelupapi.event",
+    "pk": 1,
+    "fields": {
+        "game": 1,
+        "description": "Pizza Party",
+        "date": "1212-12-12",
+        "time": "12:12",
+        "organizer": 1
+    }
+  },
+  {
+    "model": "levelupapi.event",
+    "pk": 2,
+    "fields": {
+        "game": 2,
+        "description": "Field Trip",
+        "date": "2023-11-24",
+        "time": "11:00",
+        "organizer": 1
+    }
+  }
+]
